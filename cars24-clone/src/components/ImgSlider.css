@@ -1,0 +1,36 @@
+.first-header {
+  position: absolute;
+  top: 30%;
+  right: 30%;
+  /* color: darkblue; */
+  font-weight: 800;
+  background-color: #ff8177;
+  background-image: linear-gradient(to right, #aa2828 0%, #0f1cb1 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+.second-header {
+  /* position: absolute; */
+  top: 30%;
+  right: 30%;
+}
+
+.CheckCircleIcon {
+  vertical-align: middle;
+  margin-right: 15px;
+  /* background-color: green; */
+}
+
+.PlayCircleOutlineIcon {
+  margin-top: 25px;
+  margin-right: 10px;
+  vertical-align: bottom;
+}
+
+.learnMore {
+  cursor: pointer;
+}
